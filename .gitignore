@@ -1,2 +1,6 @@
 .pyc
 .wttd
+.DS_Store
+manage.py
+*.sqlite3
+__pycache__
