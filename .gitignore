@@ -1,6 +1,8 @@
 .pyc
 .wttd
 .DS_Store
-manage.py
 *.sqlite3
 __pycache__
+.idea
+.env
+manage.py
