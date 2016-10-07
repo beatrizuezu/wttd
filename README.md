@@ -3,6 +3,8 @@
 Sistema de eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/beatrizuezu/wttd-projeto-eventex.svg?branch=master)](https://travis-ci.org/beatrizuezu/wttd-projeto-eventex)
+[![Code Health](https://landscape.io/github/beatrizuezu/wttd-projeto-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/beatrizuezu/wttd-projeto-eventex/master)
+
 
 ## Como desenvolver?
 
