@@ -5,7 +5,7 @@ from eventex.subscriptions.views import subscribe
 
 
 urlpatterns = [
-	url(r'^$', eventex_views.home),
+    url(r'^$', eventex_views.home),
     url(r'^admin/', admin.site.urls),
     url(r'^inscricao/$',subscribe)
 ]
